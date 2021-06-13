@@ -4,4 +4,6 @@ Implementation of Diffie-Hellman + Public key derivation for secure end to end m
 
 ### TODO:
 
+- Implement Diffie-Hellman
+- Implement key derivation
 - Extend to Group chats
